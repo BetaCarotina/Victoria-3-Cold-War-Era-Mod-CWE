@@ -1242,7 +1242,7 @@
 	s:STATE_BESSARABIA = {
 		region_state:SOV = {
 			create_pop = {
-				culture = romanian
+				culture = moldovan
 				size = 49387
 			}
 			create_pop = {
@@ -1282,7 +1282,7 @@
 				size = 90383
 			}
 			create_pop = {
-				culture = romanian
+				culture = moldovan
 				size = 73135
 			}
 			create_pop = {
@@ -1298,7 +1298,7 @@
 				size = 29299
 			}
 			create_pop = {
-				culture = romanian
+				culture = moldovan
 				size = 1321631
 			}
 			create_pop = {
