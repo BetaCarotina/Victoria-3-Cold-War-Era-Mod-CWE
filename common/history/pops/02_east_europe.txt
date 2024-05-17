@@ -1319,7 +1319,19 @@
 		region_state:SOV = {
 			create_pop = {
 				culture = russian
-				size = 152000
+				size = 400000
+			}
+			create_pop = {
+				culture = byelorussian
+				size = 50000
+			}
+			create_pop = {
+				culture = ukrainian
+				size = 30000
+			}
+			create_pop = {
+				culture = lithuanian
+				size = 20000
 			}
 		}
 	}
