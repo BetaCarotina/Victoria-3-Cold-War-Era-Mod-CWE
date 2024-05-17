@@ -1102,14 +1102,22 @@
 		region_state:SOV = {
 			create_pop = {
 				culture = slovak
-				size = 5600
+				size = 12000
 			}
 			create_pop = {
-				culture = russian
-				size = 31000
+				culture = ashkenazi
+				size = 11700
 			}
 			create_pop = {
 				culture = romanian
+				size = 17300
+			}
+			create_pop = {
+				culture = russian
+				size = 29000
+			}
+			create_pop = {
+				culture = hungarian
 				size = 151500
 			}
 			create_pop = {
