@@ -421,7 +421,7 @@
 			}
 			create_pop = {
 				culture = bulgarian
-				size = 9329
+				size = 24455
 			}
 		}
 	}
@@ -1247,7 +1247,7 @@
 			}
 			create_pop = {
 				culture = bulgarian
-				size = 5621
+				size = 150621
 			}
 			create_pop = {
 				culture = ashkenazi
